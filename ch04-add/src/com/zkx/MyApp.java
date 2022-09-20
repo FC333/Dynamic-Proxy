@@ -23,5 +23,7 @@ public class MyApp {
 
         int num = proxy.print("市场");
         System.out.println("我们期望的 num ==" + num);
+
+        System.out.println(1);
     }
 }
