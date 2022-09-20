@@ -6,5 +6,7 @@ package com.zkx.service;
 public class B {
     public static void main(String[] args) {
         System.out.println("p");
+        System.out.println("p");
+        System.out.println("p");
     }
 }
