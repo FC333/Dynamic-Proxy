@@ -9,5 +9,6 @@ public class B {
         System.out.println("p");
         System.out.println("p");
         System.out.println("pp");
+        System.out.println("ppp");
     }
 }
